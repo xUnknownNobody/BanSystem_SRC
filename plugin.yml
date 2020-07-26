@@ -1,0 +1,12 @@
+name: BanSystem
+version: 1.0
+author: Obscuritas
+
+main: de.obscuritas.bansystem.Main
+
+commands:
+   ban:
+   tempban:
+   unban:
+   check:
+   
